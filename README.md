@@ -5,9 +5,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the client directory, you can run:
 
 ### `npm start`
+
+and also in the server directory, you need to run:
+
+### `nodemon server.js`
+
+and that all after installing the dependencies.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -44,28 +50,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is the basic preview of what it actually looks like
 
-### Code Splitting
+![Screenshot 2023-02-04 170621](https://user-images.githubusercontent.com/107949435/216767862-b9182143-15a4-4bb1-9d9c-c05cfe49a4cc.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot 2023-02-04 170742](https://user-images.githubusercontent.com/107949435/216767872-8107057f-6434-426b-b5c2-1562c558b307.png)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot 2023-02-04 170831](https://user-images.githubusercontent.com/107949435/216767875-7112b537-1ccf-449d-9265-2643c0c87062.png)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's all for now!
